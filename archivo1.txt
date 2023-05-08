@@ -1,1 +1,2 @@
-Clase 2 de Python con base de
+Clase 2 de Python con base 
+vemos algunos cambios 
