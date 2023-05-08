@@ -1,2 +1,2 @@
 Clase 2 de Python con base 
-vemos algunos cambios 
+vemos algunos cambiosgit  
